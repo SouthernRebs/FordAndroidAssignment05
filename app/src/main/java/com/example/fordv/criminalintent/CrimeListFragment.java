@@ -55,6 +55,9 @@ public class CrimeListFragment extends Fragment {
             mTitleTextView.setText(mCrime.getTitle());
             mDateTextView.setText(mCrime.getDate().toString());
         }
+        /*public void{
+
+        }*/
 
         public Crime getCrime() {
             return mCrime;
