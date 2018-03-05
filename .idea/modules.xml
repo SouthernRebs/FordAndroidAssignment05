@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\FordAndroidAssignment05\CIDM4385.iml" filepath="C:\FordAndroidAssignment05\CIDM4385.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/FordAndroidAssignment05.iml" filepath="$PROJECT_DIR$/.idea/FordAndroidAssignment05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FordAndroidAssignment05.iml" filepath="$PROJECT_DIR$/FordAndroidAssignment05.iml" />
+      <module fileurl="file://C:\Users\fordv\Documents\AndroidStudioProjects\11_ViewPager\FordAndroidAssignment05\.idea\FordAndroidAssignment05.iml" filepath="C:\Users\fordv\Documents\AndroidStudioProjects\11_ViewPager\FordAndroidAssignment05\.idea\FordAndroidAssignment05.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\FordAndroidAssignment05\app\app.iml" filepath="C:\FordAndroidAssignment05\app\app.iml" />
     </modules>
